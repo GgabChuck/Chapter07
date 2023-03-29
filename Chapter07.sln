@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructor", "Constructor\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticField", "Global\StaticField.csproj", "{F61C2BAB-408F-4F41-BFEC-924C667E17E0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "This", "This\This.csproj", "{9E62EA44-C5A9-43A4-98AD-25F4CB1ECE19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifier", "AccessModifier\AccessModifier.csproj", "{3D0F8512-3CF4-4CA7-8237-E1EF908D0C45}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{F61C2BAB-408F-4F41-BFEC-924C667E17E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F61C2BAB-408F-4F41-BFEC-924C667E17E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F61C2BAB-408F-4F41-BFEC-924C667E17E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E62EA44-C5A9-43A4-98AD-25F4CB1ECE19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E62EA44-C5A9-43A4-98AD-25F4CB1ECE19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E62EA44-C5A9-43A4-98AD-25F4CB1ECE19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E62EA44-C5A9-43A4-98AD-25F4CB1ECE19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D0F8512-3CF4-4CA7-8237-E1EF908D0C45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D0F8512-3CF4-4CA7-8237-E1EF908D0C45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D0F8512-3CF4-4CA7-8237-E1EF908D0C45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D0F8512-3CF4-4CA7-8237-E1EF908D0C45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
