@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "This", "This\This.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifier", "AccessModifier\AccessModifier.csproj", "{3D0F8512-3CF4-4CA7-8237-E1EF908D0C45}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{5B79BE3E-2039-4ADD-A3E9-8CA006F7CF9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overriding", "Overriding\Overriding.csproj", "{E98B70B0-6FF7-4310-A893-B974D5E4C5EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{3D0F8512-3CF4-4CA7-8237-E1EF908D0C45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D0F8512-3CF4-4CA7-8237-E1EF908D0C45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D0F8512-3CF4-4CA7-8237-E1EF908D0C45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B79BE3E-2039-4ADD-A3E9-8CA006F7CF9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B79BE3E-2039-4ADD-A3E9-8CA006F7CF9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B79BE3E-2039-4ADD-A3E9-8CA006F7CF9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B79BE3E-2039-4ADD-A3E9-8CA006F7CF9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E98B70B0-6FF7-4310-A893-B974D5E4C5EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E98B70B0-6FF7-4310-A893-B974D5E4C5EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E98B70B0-6FF7-4310-A893-B974D5E4C5EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E98B70B0-6FF7-4310-A893-B974D5E4C5EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
