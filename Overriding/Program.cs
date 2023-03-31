@@ -18,7 +18,7 @@ namespace Overriding
             Console.WriteLine("Repulsor Rays Armed");
         }
     }
-    class Warmachine : ArmorSuite
+    class WarMachine : ArmorSuite
     {
         public override void Initialize()
         {
@@ -35,12 +35,12 @@ namespace Overriding
             ArmorSuite armorsuite = new ArmorSuite();
             armorsuite.Initialize();
 
-            Console.WriteLine("\nCreating ArmorSuite...");
+            Console.WriteLine("\nCreating IronMan...");
             ArmorSuite ironman = new IronMan();
             ironman.Initialize();
 
-            Console.WriteLine("\nCreating ArmorSuite...");
-            ArmorSuite warmachine = new Warmachine();
+            Console.WriteLine("\nCreating WarMachine...");
+            ArmorSuite warmachine = new WarMachine();
             warmachine.Initialize();
         }
     }

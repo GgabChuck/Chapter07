@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overriding", "Overriding\Overriding.csproj", "{E98B70B0-6FF7-4310-A893-B974D5E4C5EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structure", "Structure\Structure.csproj", "{47D21BDD-F39B-45C0-A4C1-8E991C183E58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{E98B70B0-6FF7-4310-A893-B974D5E4C5EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E98B70B0-6FF7-4310-A893-B974D5E4C5EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E98B70B0-6FF7-4310-A893-B974D5E4C5EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47D21BDD-F39B-45C0-A4C1-8E991C183E58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47D21BDD-F39B-45C0-A4C1-8E991C183E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47D21BDD-F39B-45C0-A4C1-8E991C183E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47D21BDD-F39B-45C0-A4C1-8E991C183E58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
